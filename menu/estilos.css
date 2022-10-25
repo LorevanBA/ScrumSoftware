@@ -1,0 +1,28 @@
+      body {
+          background-color: rgb(207, 221, 216);
+      }
+
+      .menu {
+          list-style-type: none;
+          padding: 0%;
+          background-color: aquamarine;
+          width: 90%;
+          max-width: 1000px;
+          margin-top: auto;
+      }
+
+      .menu li a {
+          text-decoration: none;
+          color: rgb(9, 78, 46);
+          padding: 20px;
+          display: block;
+      }
+
+      .menu li {
+          display: inline-block;
+          text-align: center;
+      }
+
+      .menu li a:hover {
+          background: rgb(25, 117, 86);
+      }
